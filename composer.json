@@ -1,0 +1,13 @@
+{
+    "name": "openpmc/hi",
+    "description": "只是个学习测试",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jiangjun",
+            "email": "0dian618@163.com"
+        }
+    ],
+    "require": {}
+}
