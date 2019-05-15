@@ -1,5 +1,5 @@
 {
-    "name": "openpmc/hi",
+    "name": "junzi528/hi",
     "description": "只是个学习测试",
     "type": "library",
     "license": "mit",
@@ -9,5 +9,10 @@
             "email": "0dian618@163.com"
         }
     ],
-    "require": {}
+    "autoload":{
+        "classmap":["src"]
+    },
+    "require": {
+        "php":">=7.0.0"
+    }
 }
